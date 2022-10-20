@@ -52,4 +52,6 @@ if __name__ = "__main__":
     
     print(instructions)
     time.sleep()
-    
+"""
+    This is the first step towards the actualisation of my voice recognition system build
+"""
